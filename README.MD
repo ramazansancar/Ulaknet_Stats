@@ -12,7 +12,7 @@ This project is inspired by the [https://netmap.funet.fi/](https://netmap.funet.
   - [ULAKNET Dağıtım Bağlantı Noktaları (Ana Omurga-Şehir)](https://ulakbim.tubitak.gov.tr/tr/hizmetlerimiz/ag-teknolojileri-birimi-atb)
 
 - [EDUROAM](https://www.eduroam.org/)
-  - [EDUROAM Türkiye](www.eduroam.org.tr/)
+  - [EDUROAM Türkiye](https:/www.eduroam.org.tr/)
 
 ## Dependencies
 
