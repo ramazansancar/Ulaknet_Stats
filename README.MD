@@ -25,6 +25,7 @@ This project is inspired by the [https://netmap.funet.fi/](https://netmap.funet.
 - [OpenStreetMap Tile List](https://wiki.openstreetmap.org/wiki/Raster_tile_providers)
 - [HGM Atlas](https://atlas.gov.tr/)
 - [Free Map Tiles](https://gist.github.com/Yago/05d479de169a21ba9fff)
+- [JOSM Maps](https://josm.openstreetmap.de/maps) (XML)
 
 ## License
 
